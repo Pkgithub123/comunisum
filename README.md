@@ -10,7 +10,7 @@
 body text hér (p) 
 
 * listi
-*listi
+ *listi
 
 1.listi
 2.listi
